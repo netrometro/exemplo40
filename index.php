@@ -1,3 +1,9 @@
+<?php
+require("db.php");
+banco("");
+echo "ok";
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
