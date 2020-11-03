@@ -7,5 +7,6 @@
   </head>
   <body>
     <h1>Ewerton Mendonça</h1>
+    <hr />
   </body>
 </html>
