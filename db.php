@@ -9,5 +9,6 @@ function banco($sql) {
     die("Erro no SQL.<br />");
 
   pg_close($conn);
+  return $resultado;
 }
 ?>

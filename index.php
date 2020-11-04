@@ -1,9 +1,3 @@
-<?php
-require("db.php");
-banco("DROP TABLE IF EXISTS usuario");
-echo "ok";
-?>
-
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
